@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-07-09T15:43:06Z" name="Default suite" finished-at="2022-07-09T15:44:44Z" duration-ms="98783">
+  <suite started-at="2022-07-10T06:48:29Z" name="Default suite" finished-at="2022-07-10T06:50:00Z" duration-ms="90570">
     <groups>
     </groups>
-    <test started-at="2022-07-09T15:43:06Z" name="Default test" finished-at="2022-07-09T15:44:44Z" duration-ms="98783">
+    <test started-at="2022-07-10T06:48:29Z" name="Default test" finished-at="2022-07-10T06:50:00Z" duration-ms="90570">
       <class name="Scripts.TS_Search_Name_Directory">
-        <test-method is-config="true" signature="Test()[pri:0, instance:Scripts.TS_Search_Name_Directory@73cd37c0]" started-at="2022-07-09T15:43:06Z" name="Test" finished-at="2022-07-09T15:43:09Z" duration-ms="3874" status="PASS">
+        <test-method is-config="true" signature="Test()[pri:0, instance:Scripts.TS_Search_Name_Directory@5505ae1a]" started-at="2022-07-10T06:48:29Z" name="Test" finished-at="2022-07-10T06:48:30Z" duration-ms="916" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test -->
-        <test-method is-config="true" signature="beforeTest()[pri:0, instance:Scripts.TS_Search_Name_Directory@73cd37c0]" started-at="2022-07-09T15:43:12Z" name="beforeTest" finished-at="2022-07-09T15:43:16Z" duration-ms="3976" status="PASS">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:Scripts.TS_Search_Name_Directory@5505ae1a]" started-at="2022-07-10T06:48:32Z" name="beforeTest" finished-at="2022-07-10T06:48:35Z" duration-ms="3040" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method signature="orderSearchWCC(java.util.HashMap)[pri:0, instance:Scripts.TS_Search_Name_Directory@73cd37c0]" started-at="2022-07-09T15:43:16Z" name="orderSearchWCC" data-provider="RequireData" finished-at="2022-07-09T15:44:41Z" duration-ms="85191" status="PASS">
+        <test-method signature="orderSearchWCC(java.util.HashMap)[pri:0, instance:Scripts.TS_Search_Name_Directory@5505ae1a]" started-at="2022-07-10T06:48:35Z" name="orderSearchWCC" data-provider="RequireData" finished-at="2022-07-10T06:49:58Z" duration-ms="83215" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -26,18 +26,18 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- orderSearchWCC -->
-        <test-method is-config="true" signature="ExtentReport(org.testng.ITestResult)[pri:0, instance:Scripts.TS_Search_Name_Directory@73cd37c0]" started-at="2022-07-09T15:44:41Z" name="ExtentReport" finished-at="2022-07-09T15:44:41Z" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="ExtentReport(org.testng.ITestResult)[pri:0, instance:Scripts.TS_Search_Name_Directory@5505ae1a]" started-at="2022-07-10T06:49:58Z" name="ExtentReport" finished-at="2022-07-10T06:49:58Z" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=orderSearchWCC status=SUCCESS method=TS_Search_Name_Directory.orderSearchWCC(java.util.HashMap)[pri:0, instance:Scripts.TS_Search_Name_Directory@73cd37c0] output={null}]]]>
+                <![CDATA[[TestResult name=orderSearchWCC status=SUCCESS method=TS_Search_Name_Directory.orderSearchWCC(java.util.HashMap)[pri:0, instance:Scripts.TS_Search_Name_Directory@5505ae1a] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ExtentReport -->
-        <test-method is-config="true" signature="Display()[pri:0, instance:Scripts.TS_Search_Name_Directory@73cd37c0]" started-at="2022-07-09T15:44:41Z" name="Display" finished-at="2022-07-09T15:44:44Z" duration-ms="3082" status="PASS">
+        <test-method is-config="true" signature="Display()[pri:0, instance:Scripts.TS_Search_Name_Directory@5505ae1a]" started-at="2022-07-10T06:49:58Z" name="Display" finished-at="2022-07-10T06:50:00Z" duration-ms="1981" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Display -->

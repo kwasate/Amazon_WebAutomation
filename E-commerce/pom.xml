@@ -79,13 +79,12 @@
 			<artifactId>json-path</artifactId>
 			<version>2.4.0</version>
 		</dependency>
-
 		<dependency>
 			<groupId>com.sample</groupId>
 			<artifactId>sample</artifactId>
 			<version>1.0</version>
 			<scope>system</scope>
-			<systemPath>E:\Automation_Testing\E-commerce\resources\ProlificsAutomationReports_02.jar</systemPath>
+			<systemPath>${project.basedir}\resources\ProlificsAutomationReports_02.jar</systemPath>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/org.codehaus.jackson/jackson-core-asl -->
 		<dependency>
